@@ -1,0 +1,1391 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" /> 
+<!--[if gte mso 9]><xml>  
+    <x:ExcelWorkbook>  
+        <x:ExcelWorksheets>  
+            <x:ExcelWorksheet>  
+                <x:Name>工作表标题</x:Name>  
+                <x:WorksheetOptions>  
+                    <x:Print>  
+                        <x:ValidPrinterInfo />  
+                    </x:Print>  
+                </x:WorksheetOptions>  
+            </x:ExcelWorksheet>  
+        </x:ExcelWorksheets>  
+    </x:ExcelWorkbook>  
+</xml>  
+<![endif]-->  
+</head>
+
+<body>
+
+<div id="ExportA">
+		<table width="95%" border="0" class="listTable" style="margin: auto;margin-top: 40px;">
+			<tbody><tr align="center">
+				<td colspan="16"><b>学生点名册</b></td>
+			</tr>
+			<tr align="center">
+				<td colspan="16"><b>2022-2023学年第一学期</b></td>
+			</tr>
+			<tr align="center">
+				<td colspan="5">课程序号：3060513038.01</td>
+				<td colspan="11">课程名称：Java程序设计实践</td>
+			</tr>
+			<tr align="center">
+				<td width="5%">序号</td>
+				<td width="8%">学号</td>
+				<td width="8%">姓名</td>
+				<td width="5%">性别</td>
+				<td width="10%">班级</td>
+				<td width="10%">修读类别</td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+			</tr>
+
+				<tr align="center">
+					<td>1</td>
+					<td>202015114</td>
+					<td>
+						
+						盛智鹏
+					</td>
+					<td>男</td>
+                    <td>应数2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>2</td>
+					<td>202015121</td>
+					<td>
+						
+						黄琪蓉
+					</td>
+					<td>女</td>
+                    <td>应数2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>3</td>
+					<td>20197998</td>
+					<td>
+						
+						顾天意
+					</td>
+					<td>男</td>
+                    <td>信科1901</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>4</td>
+					<td>20198073</td>
+					<td>
+						
+						朱坤帅
+					</td>
+					<td>男</td>
+                    <td>信科1901</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>5</td>
+					<td>202015137</td>
+					<td>
+						
+						安玲玲
+					</td>
+					<td>女</td>
+                    <td>信科2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>6</td>
+					<td>202015070</td>
+					<td>
+						
+						陈政
+					</td>
+					<td>男</td>
+                    <td>统计2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>7</td>
+					<td>202015084</td>
+					<td>
+						
+						丁文慧
+					</td>
+					<td>女</td>
+                    <td>统计2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>8</td>
+					<td>202015087</td>
+					<td>
+						
+						卜令文
+					</td>
+					<td>男</td>
+                    <td>统计2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>9</td>
+					<td>20197034</td>
+					<td>
+						
+						王权龙
+					</td>
+					<td>男</td>
+                    <td>大数据1901</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>10</td>
+					<td>202015005</td>
+					<td>
+						
+						王疆寒
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>11</td>
+					<td>202015006</td>
+					<td>
+						
+						孙善文
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>12</td>
+					<td>202015019</td>
+					<td>
+						
+						陈泠睿
+					</td>
+					<td>女</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>13</td>
+					<td>202015050</td>
+					<td>
+						
+						裴岩文
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>14</td>
+					<td>202015057</td>
+					<td>
+						
+						丁子健
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>15</td>
+					<td>202015067</td>
+					<td>
+						
+						姚昌旺
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>16</td>
+					<td>202015074</td>
+					<td>
+						
+						陈建伟
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>17</td>
+					<td>202015075</td>
+					<td>
+						
+						许瑞泽
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>18</td>
+					<td>202015083</td>
+					<td>
+						
+						姜虹竹
+					</td>
+					<td>女</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>19</td>
+					<td>202015088</td>
+					<td>
+						
+						张瑞棣
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>20</td>
+					<td>202015094</td>
+					<td>
+						
+						张琪
+					</td>
+					<td>女</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>21</td>
+					<td>202015109</td>
+					<td>
+						
+						瞿翥
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>22</td>
+					<td>202015131</td>
+					<td>
+						
+						黄振坤
+					</td>
+					<td>男</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>23</td>
+					<td>202015144</td>
+					<td>
+						
+						张馨悦
+					</td>
+					<td>女</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>24</td>
+					<td>202015152</td>
+					<td>
+						
+						林菀茹
+					</td>
+					<td>女</td>
+                    <td>大数据2001</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>25</td>
+					<td>202015024</td>
+					<td>
+						
+						胡一涵
+					</td>
+					<td>女</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>26</td>
+					<td>202015025</td>
+					<td>
+						
+						刘淇
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>27</td>
+					<td>202015059</td>
+					<td>
+						
+						韩佳权
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>28</td>
+					<td>202015061</td>
+					<td>
+						
+						李泽浩
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>29</td>
+					<td>202015071</td>
+					<td>
+						
+						戴宇航
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>30</td>
+					<td>202015086</td>
+					<td>
+						
+						邵明辰
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>31</td>
+					<td>202015092</td>
+					<td>
+						
+						陈贺
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>32</td>
+					<td>202015116</td>
+					<td>
+						
+						梁祺若
+					</td>
+					<td>女</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>33</td>
+					<td>202015128</td>
+					<td>
+						
+						刘诗琪
+					</td>
+					<td>女</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>34</td>
+					<td>202015140</td>
+					<td>
+						
+						周华
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>35</td>
+					<td>202015142</td>
+					<td>
+						
+						李先存
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>36</td>
+					<td>202016035</td>
+					<td>
+						
+						张瑾璇
+					</td>
+					<td>女</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>37</td>
+					<td>202016189</td>
+					<td>
+						
+						姜海波
+					</td>
+					<td>男</td>
+                    <td>大数据2002</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>38</td>
+					<td>202011030</td>
+					<td>
+						
+						石嘉伟
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>39</td>
+					<td>202011034</td>
+					<td>
+						
+						潘志宏
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>40</td>
+					<td>202011080</td>
+					<td>
+						
+						毛煜森
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+					<tr align="left">
+						<td colspan="16">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;带<font color="red">*</font>号的学生与其他课程冲突
+							出勤&nbsp;√&nbsp;&nbsp;
+							旷课&nbsp;χ&nbsp;&nbsp;
+							病假&nbsp;Ο&nbsp;&nbsp;
+							事假&nbsp;Δ&nbsp;&nbsp;
+							迟到&nbsp;Φ&nbsp;&nbsp;
+						</td>
+					</tr>
+		</tbody></table>
+		<div style="page-break-after:always"></div>
+		<table width="95%" border="0" class="listTable" style="margin: auto;margin-top: 40px;">
+			<tbody><tr align="center">
+				<td colspan="16"><b>学生点名册</b></td>
+			</tr>
+			<tr align="center">
+				<td colspan="16"><b>2022-2023学年第一学期</b></td>
+			</tr>
+			<tr align="center">
+				<td colspan="5">课程序号：3060513038.01</td>
+				<td colspan="11">课程名称：Java程序设计实践</td>
+			</tr>
+			<tr align="center">
+				<td width="5%">序号</td>
+				<td width="8%">学号</td>
+				<td width="8%">姓名</td>
+				<td width="5%">性别</td>
+				<td width="10%">班级</td>
+				<td width="10%">修读类别</td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+					<td width="4%"></td>
+			</tr>
+
+				<tr align="center">
+					<td>41</td>
+					<td>202011104</td>
+					<td>
+						
+						陈柄旭
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>42</td>
+					<td>202011320</td>
+					<td>
+						
+						尹杭
+					</td>
+					<td>女</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>43</td>
+					<td>202015003</td>
+					<td>
+						
+						崔志远
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>44</td>
+					<td>202015018</td>
+					<td>
+						
+						王梓仝
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>45</td>
+					<td>202015045</td>
+					<td>
+						
+						韩迪
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>46</td>
+					<td>202015062</td>
+					<td>
+						
+						李伟杰
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>47</td>
+					<td>202015078</td>
+					<td>
+						
+						郭廷轩
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>48</td>
+					<td>202015104</td>
+					<td>
+						
+						唐琛
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>49</td>
+					<td>202015108</td>
+					<td>
+						
+						刘文娟
+					</td>
+					<td>女</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>50</td>
+					<td>202015112</td>
+					<td>
+						
+						王翔
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>51</td>
+					<td>202015117</td>
+					<td>
+						
+						黄胜凯
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>52</td>
+					<td>202015119</td>
+					<td>
+						
+						黄伊托
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>53</td>
+					<td>202015132</td>
+					<td>
+						
+						张鹏
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>54</td>
+					<td>202015133</td>
+					<td>
+						
+						李琦
+					</td>
+					<td>女</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>55</td>
+					<td>202015134</td>
+					<td>
+						
+						邵雨欣
+					</td>
+					<td>女</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>56</td>
+					<td>202015141</td>
+					<td>
+						
+						顾本妍
+					</td>
+					<td>女</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>57</td>
+					<td>202015143</td>
+					<td>
+						
+						杜睿哲
+					</td>
+					<td>男</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>58</td>
+					<td>202015145</td>
+					<td>
+						
+						夏晨希
+					</td>
+					<td>女</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>59</td>
+					<td>202015154</td>
+					<td>
+						
+						王艺卓
+					</td>
+					<td>女</td>
+                    <td>大数据2003</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>60</td>
+					<td>202015012</td>
+					<td>
+						
+						孙庆嵩
+					</td>
+					<td>男</td>
+                    <td>大数据2101</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+				<tr align="center">
+					<td>61</td>
+					<td>202015136</td>
+					<td>
+						
+						周翰林
+					</td>
+					<td>男</td>
+                    <td>大数据2101</td>
+                    <td>正常</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+					<td>&nbsp;</td>
+				</tr>
+					<tr align="left">
+						<td colspan="16">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;带<font color="red">*</font>号的学生与其他课程冲突
+							出勤&nbsp;√&nbsp;&nbsp;
+							旷课&nbsp;χ&nbsp;&nbsp;
+							病假&nbsp;Ο&nbsp;&nbsp;
+							事假&nbsp;Δ&nbsp;&nbsp;
+							迟到&nbsp;Φ&nbsp;&nbsp;
+						</td>
+					</tr>
+		</tbody></table>
+		</div>
+
+</body>
+</html>
